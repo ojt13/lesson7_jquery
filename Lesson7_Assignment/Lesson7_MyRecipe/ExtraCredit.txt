@@ -1,0 +1,4 @@
+To modify the files for my own recipe I did a few things.
+1) Changed the color of the headers to purple and teal, when hovered over
+2) I changed the dropdown to fast, not slow
+3) I also changed the picture from brownies, to cookies
